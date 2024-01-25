@@ -4,6 +4,7 @@ h1 {
     color: white;
     font-family: monospace, 'Courier New';
     font-size: 42px;
+    padding: 20px;
 }
 
 #butter {

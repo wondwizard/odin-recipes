@@ -4,6 +4,7 @@ h1 {
     background-color: orange;
     font-size: 42px;
     font-family: monospace, 'Courier New';
+    padding: 20px;
 }
 
 img {
