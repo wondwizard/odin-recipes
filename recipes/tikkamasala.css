@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 42px;
+    font-family: monospace, 'Courier New';
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#description {
+    text-align: center;
+}
